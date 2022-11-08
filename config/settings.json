@@ -1,0 +1,22 @@
+{
+	"servers": [
+		{
+			"ip": "45.58.113.138",
+			"port": 27015,
+			"timeout": 2500,
+			"update": 5000,
+			"format": "({players}/{maxPlayers}) | {map}",
+			"lowPlayers": 0,
+			"lowPlayersMessage": "No hay personas conectadas.",
+			"connecting": "Conectando con el server...",
+			"statusType": "WATCHING",
+			"statusConnecting": "dnd",
+			"statusLowPlayers": "idle",
+			"statusMaxPlayers": "idle",
+			"statusSlotsAvailable": "online",
+			"token": "ODYzNjgxODIzMDYxMDQ5MzU3.YOqcYQ.02CSNsBsLQ-SWGVsPZaIb_jxAys"
+		}
+		
+	]
+	
+}

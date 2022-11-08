@@ -1,0 +1,15 @@
+{
+  "name": "source-playercount",
+  "version": "1.0.0",
+  "description": "An application that allows you to display information about the games made in the source engine in a Discord bot.",
+  "main": "./src/client.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "source-server-query": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node ./src/client.js"
+  },
+  "author": "Valencitoh",
+  "license": "GNU GPLv3"
+}
