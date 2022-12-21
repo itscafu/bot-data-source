@@ -1,2 +1,0 @@
-1server: Csgo Casual 27015
-2server: DARK RP
