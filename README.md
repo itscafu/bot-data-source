@@ -1,3 +1,5 @@
 # bot-data-source
 
-era un bot modificado x mi, hecho x valencitoh 
+el bot usa la api d source para fijarse cuantas personas hay en el server...
+
+hecho x valencitoh (rip), modificado x mi 
